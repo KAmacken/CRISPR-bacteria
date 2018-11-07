@@ -1,0 +1,34 @@
+ h1{
+font-family: Franklin Gothic;
+color: purple;
+text-align: center;
+}
+ 
+ .bacteria{
+font-family: Franklin Gothic Book;
+text-align: center;
+font-size: 16px;
+}
+
+ .author{
+font-family: Franklin Gothic Book;
+text-align: center;
+}
+
+ h3{
+font-family: Franklin Gothic Book;
+text-align: center;
+}
+ 
+#CRISPR{ 
+background-image: url("CRISPRcut.jpg");
+opacity: 0.6;
+font-weight: bold;
+}
+ 
+ .navigation{
+font-family: Franklin Gothic Book;
+text-align: center;
+font-size: 13px;
+}
+ 
